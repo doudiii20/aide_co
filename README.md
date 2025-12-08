@@ -1,30 +1,41 @@
-# aide_co - Application de Gestion Médicale
+# aide_co - Application de Gestion des Consultations Médicales
 
-## 📖 Description
-Application web complète pour la gestion des consultations médicales, développée dans le cadre du module **Projet Technologies Web 2A** (Année 2025-2026).  
-Le système permet aux patients de prendre rendez-vous en ligne et aux médecins de gérer leur planning.
+## Description
+Application web développée pour le module **Projet Technologies Web 2A** (Année universitaire 2025-2026).  
+Ce projet permet la gestion complète des rendez-vous médicaux en ligne, offrant des interfaces distinctes pour les patients, médecins et administrateurs.
 
-## 🚀 Fonctionnalités
-- **Pour les patients** : Prise de rendez-vous en ligne, consultation de l'historique
-- **Pour les médecins** : Gestion du planning, consultation des dossiers patients
-- **Pour les administrateurs** : Gestion des utilisateurs et statistiques
+### Objectif :
+- Digitaliser la prise de rendez-vous médicaux
+- Optimiser la gestion des plannings des professionnels de santé
+- Centraliser les dossiers patients de manière sécurisée
 
-## 🛠️ Technologies utilisées
-- **Frontend** : HTML5, CSS3, JavaScript
-- **Backend** : PHP 8.x
-- **Base de données** : MySQL
-- **Serveur** : XAMPP (Apache)
-- **Versioning** : Git & GitHub
+### Principales fonctionnalités :
+- 📅 Système de prise de rendez-vous en temps réel
+- 👨‍⚕️ Interface dédiée pour les médecins
+- 👤 Espace personnel pour les patients
+- 📊 Tableau de bord administratif
+- 🔐 Système d'authentification sécurisé
 
 ---
 
-## 📦 Installation
+## Table des Matières
+- [Installation](#installation)
+- [Utilisation](#utilisation)
+- [Contributions](#contributions)
+- [Licence](#licence)
+
+---
+
+## Installation
 
 ### Prérequis
 - [XAMPP](https://www.apachefriends.org/fr/index.html) (Apache + MySQL + PHP)
 - Git
+- Navigateur web moderne
 
-### Étape 1 : Cloner le dépôt
-```bash
-git clone https://github.com/jahhamoufida/aide_co.git
-cd aide_co
+### Étapes d'installation
+
+1. **Clonez le repository :**
+   ```bash
+   git clone https://github.com/jahhamoufida/aide_co.git
+   cd aide_co
