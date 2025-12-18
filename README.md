@@ -54,7 +54,7 @@ Cette application permet la gestion complète des consultations médicales en li
 - [Contributions](#contributions)
 - [Licence](#licence)
 
----
+--
 
 ## 🛠️ Installation
 
